@@ -29,4 +29,8 @@ and enter your link to download the video
 ![emx](https://github.com/devlocalhost/youtube-search/blob/main/pic4.png)
 
 # NOTE
-THIS SCRIPT REQUIRES A [YOUTUBE API KEY!](https://developers.google.com/youtube/v3/getting-started) IF YOU DONT HAVE ONE, REMOVE THE 6TH AND 8TH LINE, BUT IF YOU DONT WANT "RATELIMITS", YOULL NEED A API KEY!!
+THIS SCRIPT REQUIRES A [YOUTUBE API KEY!](https://developers.google.com/youtube/v3/getting-started) IF YOU DONT HAVE ONE, REMOVE THE 6TH AND 8TH LINE, BUT IF YOU DONT WANT "RATELIMITS", YOULL NEED A API KEY!! (this works on mobiles also, tested in pydroid python version 3.8.0)
+
+# have an question?
+add me on discord: **.dev64#3346**
+
