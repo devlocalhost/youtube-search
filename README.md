@@ -27,3 +27,6 @@ the other file is to download a youtube video in a mp4 format
 and enter your link to download the video
 ![exm]()
 ![emx]()
+
+# NOTE
+THIS SCRIPT REQUIRES A [YOUTUBE API KEY!](https://developers.google.com/youtube/v3/getting-started) IF YOU DONT HAVE ONE, REMOVE THE 6TH AND 8TH LINE, BUT IF YOU DONT WANT "RATELIMITS", YOULL NEED A API KEY!!
