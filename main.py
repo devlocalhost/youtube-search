@@ -3,7 +3,7 @@ import requests
 import json
 from youtubepy import Video
 
-apiKey = 'yourGoogleAPIkey'
+apiKey = 'yourYouTubeAPIkey'
 
 pafy.set_api_key(apiKey)
 
